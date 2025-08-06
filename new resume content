@@ -1,0 +1,79 @@
+Profile Summary:
+DevOps & Cloud Engineer with around 2 years of professional experience in designing, implementing, and managing cloud-based infrastructure and CI/CD automation across multi-cloud platforms including Microsoft Azure, AWS, and GCP. Adept at Infrastructure as Code (IaC) using Terraform and Azure Bicep, containerization with Docker, orchestration with Kubernetes (AKS), and automation using Ansible. Skilled in building and deploying scalable, secure, and high-performance applications with a strong focus on monitoring, logging, and release management. Proficient in Git-based workflows, Linux administration, and end-to-end CI/CD pipeline design using Jenkins and Azure DevOps.
+
+Key Skills:
+
+Cloud Platforms: Microsoft Azure, AWS, GCP
+
+Infrastructure as Code (IaC): Terraform, Azure Bicep
+
+CI/CD Tools: Jenkins, Azure DevOps
+
+Version Control: Git, GitHub, Bitbucket
+
+Configuration Management: Ansible
+
+Containers & Orchestration: Docker, Kubernetes (AKS)
+
+Artifact Management: Azure Container Registry (ACR), Docker Registry
+
+Monitoring & Logging: Prometheus, Grafana, Loki, EFK Stack (Elasticsearch, Fluentd, Kibana)
+
+Build Tools & Languages: Maven, Bash, Python
+
+Databases & Messaging: MySQL, Apache Kafka
+
+Web & Application Servers: Apache, Nginx, Tomcat
+
+Operating Systems: Linux, Windows
+
+Professional Experience:
+DevOps & Cloud Engineer | Adaequare Info Pvt Ltd | Hyderabad | Present
+
+Automated Azure infrastructure provisioning using Azure Bicep, ensuring consistent and repeatable deployments in line with IaC principles.
+
+Managed Azure services such as VNets, Storage Accounts, Virtual Machines, Microsoft Entra ID, AKS, ACR, Key Vault, Managed Identities, and Private Endpoints.
+
+Designed and implemented CI/CD pipelines in Jenkins integrated with GitHub, Maven, and ACR to deploy containerized applications on AKS.
+
+Configured Redis cache with password authentication and access controls to enhance application performance and security.
+
+Deployed a multi-broker Apache Kafka cluster in KRaft mode to achieve high availability and eliminate ZooKeeper dependency.
+
+Implemented Private Endpoints, Managed Identities, and RBAC to enforce secure, role-based access between Azure resources.
+
+Integrated SonarQube with CI/CD pipelines for continuous code quality checks.
+
+Built GCP infrastructure (VPCs, subnets, VMs) using Terraform, and automated software provisioning with Ansible playbooks.
+
+Developed custom Docker images for Jenkins agents pre-installed with Terraform, Ansible, and cloud SDK tools.
+
+Designed and deployed centralized monitoring and logging stacks using Prometheus, Grafana, Loki, and EFK for real-time observability.
+
+Configured SSL/TLS certificates in AKS Ingress controllers to enforce HTTPS security.
+
+Performed critical system maintenance tasks including Jenkins backup/restore, Ubuntu OS upgrades, and disk management to ensure high availability.
+
+Notable Projects:
+
+Azure Infrastructure Automation: Provisioned and configured production-grade AKS clusters, ACR, VNets, and Key Vault with Private Endpoints.
+
+GCP CI/CD Implementation: Automated multi-environment infrastructure provisioning using Terraform and Ansible integrated with Jenkins.
+
+Monitoring Stack Deployment: Automated installation and configuration of Prometheus, Grafana, Loki, Elasticsearch, and agents via Bash scripts for consistent deployments.
+
+Education:
+
+B.Tech – Raghu Engineering College, Visakhapatnam (60%)
+
+Intermediate (MPC) – Raghu Engineering College, Visakhapatnam (95.7%)
+
+SSC – Amar Concept School, Visakhapatnam (90%)
+
+Strengths:
+
+Strong problem-solving abilities with a proactive approach to issue resolution.
+
+Ability to work collaboratively with cross-functional teams to deliver projects on time.
+
+Passion for learning emerging cloud and DevOps technologies to enhance system efficiency and security.
